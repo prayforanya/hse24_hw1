@@ -23,11 +23,11 @@ MBIAS PLOT (отчеты лежат в папке data)
 ICM – внутренняя клеточная масса бластоциста, примерно 3.5 дня после оплодотворения яйцеклетки
 
 ![image](https://github.com/prayforanya/hse24_hw1/blob/main/data/icm_Read_1.png)
-![image](https://github.com/prayforanya/hse24_hw1/blob/main/data/icm_Read_1.png)
+![image](https://github.com/prayforanya/hse24_hw1/blob/main/data/icm_Read_2.png)
 
 Epiblast – стадия эпибласта, примерно 6.5 дней после оплодотворения яйцеклетки
 ![image](https://github.com/prayforanya/hse24_hw1/blob/main/data/epiblast_Read_1.png)
-![image](https://github.com/prayforanya/hse24_hw1/blob/main/data/epiblast_Read_1.png)
+![image](https://github.com/prayforanya/hse24_hw1/blob/main/data/epiblast_Read_2.png)
 
 Гистограммы
 ![image](https://github.com/prayforanya/hse24_hw1/blob/main/data/reference.png)
