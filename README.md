@@ -1,6 +1,6 @@
 # hse24_hw1
-Ссылка на ноутбук https://colab.research.google.com/drive/1ZBy9oDJPre2wdtpKQ3dlTt4G2NeE5y1B?usp=sharing 
 
+##### Ссылка на ноутбук https://colab.research.google.com/drive/1ZBy9oDJPre2wdtpKQ3dlTt4G2NeE5y1B?usp=sharing 
 
 Скачала файл SRR5836473_1.fastq и провела его анализ с помощью FASTQC (отчет лежит в папке data)
 
