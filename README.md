@@ -29,7 +29,10 @@ Epiblast – стадия эпибласта, примерно 6.5 дней по
 ![image](https://github.com/prayforanya/hse24_hw1/blob/main/data/epiblast_Read_1.png)
 ![image](https://github.com/prayforanya/hse24_hw1/blob/main/data/epiblast_Read_2.png)
 
+Сильнее всего метелирован epiblast, а слабее icm, это соответвсвует данным из литературы
+
 Гистограммы
+Полученные диаграммы похожи на референс
 ![image](https://github.com/prayforanya/hse24_hw1/blob/main/data/reference.png)
 ![image](https://github.com/prayforanya/hse24_hw1/blob/main/data/8_cell.png)
 ![image](https://github.com/prayforanya/hse24_hw1/blob/main/data/icm.png)
