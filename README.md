@@ -14,7 +14,7 @@
 | SRR3824222 | Epiblast | 1344 | 565 | 2.91 % |
 | SRR5836475 | ICM      | 797 | 274 | 9.07 % |
 
-MBIAS PLOT (отчеты лежат в папке data)
+### MBIAS PLOT (отчеты лежат в папке data)
 
 8cell – 8-клеточный эмбрион, примерно 2.25 дня после оплодотворения яйцеклетки
 ![image](https://github.com/prayforanya/hse24_hw1/blob/main/data/8_cell_Read_1.png)
@@ -31,13 +31,13 @@ Epiblast – стадия эпибласта, примерно 6.5 дней по
 
 Сильнее всего метелирован epiblast, а слабее icm, это соответвсвует данным из литературы
 
-Гистограммы
+### Гистограммы
 Полученные диаграммы похожи на референс
 ![image](https://github.com/prayforanya/hse24_hw1/blob/main/data/reference.png)
 ![image](https://github.com/prayforanya/hse24_hw1/blob/main/data/8_cell.png)
 ![image](https://github.com/prayforanya/hse24_hw1/blob/main/data/icm.png)
 ![image](https://github.com/prayforanya/hse24_hw1/blob/main/data/epiblast.png)
 
-Уровень метелирования и покрытия
+### Уровень метелирования и покрытия
 ![image](https://github.com/prayforanya/hse24_hw1/blob/main/data/image_cov.png)
 ![image](https://github.com/prayforanya/hse24_hw1/blob/main/data/image_met.png)
