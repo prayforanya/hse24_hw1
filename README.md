@@ -7,6 +7,9 @@
 Необычное распределение GC может быть связано с бисульфитным секвенированием, так как во время него неметелированный Цитозин переходит в Урацил. C меняется на U.
 
 ![image](https://github.com/prayforanya/hse24_hw1/blob/main/data/per_sequence_gc_content.png)
+ 
+Содержание Цитозина также мало.
+![image](https://github.com/prayforanya/hse24_hw1/blob/main/data/per_base_sequence_content.png)
 
 Полученная таблица:
 
